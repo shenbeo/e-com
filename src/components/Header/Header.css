@@ -1,0 +1,27 @@
+
+
+
+
+/* header */
+.navbar{
+    box-shadow:  0 3px 9px 3px rgba(0, 0, 0, 0.1);
+}
+.navbar-brand img{/* dùng cho hình logo */
+    width: 30px;
+}
+.navbar-brand span{
+    letter-spacing: 2px;
+    font-family: var(--lg-font);
+}
+.nav-link:hover{
+    color: var(--pink)!important;
+}
+.nav-item{
+    border-bottom: 0.5px solid rgba(0, 0, 0, 0.05);
+}
+/* desktop */
+@media (min-width: 992px) {
+    .nav-item{
+        border-bottom: none;
+    }
+}

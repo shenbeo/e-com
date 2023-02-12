@@ -1,0 +1,15 @@
+.special-img span{
+    top: 20px;
+    right: 20px;
+}
+
+.special-img .btn{
+    padding: 8px 20px!important;
+}
+.special-img img{
+    transition: all 0.3s ease;
+}
+.special-img:hover img{
+    transform:  scale(1.2);
+}
+
