@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/e-com/static/css/main.d5dd8bcd.css",
+    "main.js": "/e-com/static/js/main.83bcae23.js",
+    "static/js/787.dba80a51.chunk.js": "/e-com/static/js/787.dba80a51.chunk.js",
+    "static/media/y9.jpg": "/e-com/static/media/y9.bad2a1cb4b00251668ed.jpg",
+    "static/media/c1.jpg": "/e-com/static/media/c1.4a6cbc962662a918e8b1.jpg",
+    "static/media/c4.jpg": "/e-com/static/media/c4.d53e9ace4ee2513eb02c.jpg",
+    "static/media/y1.jpg": "/e-com/static/media/y1.7d10038e32deefdf1c65.jpg",
+    "static/media/h2.jpg": "/e-com/static/media/h2.92d228dd312e50847cbe.jpg",
+    "static/media/y6.jpg": "/e-com/static/media/y6.12c813bc3f25d86f86de.jpg",
+    "static/media/y3.jpg": "/e-com/static/media/y3.4b0abe548a2bf47917db.jpg",
+    "static/media/b3.jpg": "/e-com/static/media/b3.528bbeb0740255043c61.jpg",
+    "static/media/y5.jpg": "/e-com/static/media/y5.1bc919f63ffd07ea40bc.jpg",
+    "static/media/p1.jpg": "/e-com/static/media/p1.683ed47dd0408d84f8d3.jpg",
+    "static/media/y4.jpg": "/e-com/static/media/y4.ce5b48901a8bffc94462.jpg",
+    "static/media/c2.jpg": "/e-com/static/media/c2.9c8b445888a22c20f665.jpg",
+    "static/media/p2.jpg": "/e-com/static/media/p2.0cdb87346b98e9e34dc0.jpg",
+    "static/media/y2.jpg": "/e-com/static/media/y2.9519a730678d7a29b6af.jpg",
+    "static/media/c3.jpg": "/e-com/static/media/c3.0fddb65791cec2ac0392.jpg",
+    "static/media/p4.jpg": "/e-com/static/media/p4.b6906910e1b5751f52e7.jpg",
+    "static/media/b2.jpg": "/e-com/static/media/b2.4609da2cfafbbd11c91c.jpg",
+    "static/media/y7.jpg": "/e-com/static/media/y7.f77b4f83b14c965daaad.jpg",
+    "static/media/p3.jpg": "/e-com/static/media/p3.e1b12ff39812d72a9ed5.jpg",
+    "static/media/h1.jpg": "/e-com/static/media/h1.1ab3c24a5a71037bcbe4.jpg",
+    "static/media/about.jpg": "/e-com/static/media/about.103fa002abbe71f63011.jpg",
+    "static/media/b1.webp": "/e-com/static/media/b1.8eedd2b6b93b7b2b3500.webp",
+    "static/media/y8.jpg": "/e-com/static/media/y8.62504e8be664ff297ff0.jpg",
+    "index.html": "/e-com/index.html",
+    "main.d5dd8bcd.css.map": "/e-com/static/css/main.d5dd8bcd.css.map",
+    "main.83bcae23.js.map": "/e-com/static/js/main.83bcae23.js.map",
+    "787.dba80a51.chunk.js.map": "/e-com/static/js/787.dba80a51.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5dd8bcd.css",
+    "static/js/main.83bcae23.js"
+  ]
+}
